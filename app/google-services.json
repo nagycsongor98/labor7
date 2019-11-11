@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796069602710",
+    "firebase_url": "https://registerstudents-b1077.firebaseio.com",
+    "project_id": "registerstudents-b1077",
+    "storage_bucket": "registerstudents-b1077.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796069602710:android:1083ac0eac6972d41a29b7",
+        "android_client_info": {
+          "package_name": "com.nagycsongor.form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796069602710-n71ui0408dshp46p28glcp8v3sq0tdhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nagycsongor.form",
+            "certificate_hash": "0cedd913ea1127b9fc22d37b50811fd6b842f066"
+          }
+        },
+        {
+          "client_id": "796069602710-9v6bh7bj9695fr34k539vhlt63e2ob1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHG0g6bN1cju-7ZIukKPfnj2W-kLa6Juk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796069602710-9v6bh7bj9695fr34k539vhlt63e2ob1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

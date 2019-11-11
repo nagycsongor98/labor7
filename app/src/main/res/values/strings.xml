@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Form</string>
+
+    <string-array name="Locations">
+        <item>Marosvasarhely</item>
+        <item>Kolozsvar</item>
+        <item>Szeben</item>
+        <item>Nagyvarad</item>
+        <item>Csikszereda</item>
+        <item>Gyergyoszentmiklos</item>
+        <item>Brasso</item>
+        <item>Segesvar</item>
+    </string-array>
+
+    <string-array name="Department">
+        <item>Informatika</item>
+        <item>Tavkozles</item>
+        <item>Gepeszmernok</item>
+        <item>Szamitastechnika</item>
+    </string-array>
+
+</resources>
